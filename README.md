@@ -1,2 +1,2 @@
 # basic-node-auth-server
-Basic Node auth server, taken from the Udemy course Advance React Redux Course
+Basic Node auth server using MongoDB, taken from the Udemy course: Advanced React and Redux
